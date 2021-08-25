@@ -22,8 +22,8 @@
 #define NO 0
 
 //----------------------------------------SSID and Password of your WiFi router
-const char *ssid = "Tenda_0B8E30";
-const char *password = "t1nd2wifi2.4";
+const char *ssid = "Your_Wi-Fi_Router's_name";
+const char *password = "Router_Password";
 //----------------------------------------
 
 int pos;
